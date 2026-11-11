@@ -1,0 +1,6 @@
+package com.tailoring.tailoring_shop.measurement.entity;
+
+public class FullPantMeasurement {
+	
+	
+}
